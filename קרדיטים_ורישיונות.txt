@@ -1,0 +1,33 @@
+כתב-יד AI — קרדיטים ורישיונות של נתונים ומקורות
+KtavYad AI — data and source credits
+
+מודל הזיהוי אומן על כתבי יד שתרמו משתמשי התוכנה, ועל המאגרים הציבוריים הבאים.
+עם התוכנה מופץ רק המודל המאומן. התמונות והתמלולים של המאגרים לא מופצים.
+The recognition model was trained on handwriting donated by the application's users and on the public datasets below.
+Only the trained model is distributed; no images or transcriptions from these datasets are included.
+
+1. Pinkas dataset — I. Rabaev, B. Kurar Barakat, J. El-Sana, "The Pinkas Dataset", Zenodo 2019,
+   doi:10.5281/zenodo.3569694. Licence: CC BY 4.0. Line crops via cyttic/pinkas-hebrew-lines (CC BY 4.0).
+
+2. HTR Winter School 2025 (University of Vienna), Hebrew group: transcription of BL Or. 10037 (Mishneh Torah),
+   github.com/HTR-School-Vienna/2025-hebrew. Licence: CC BY 4.0 / CC BY-SA. Images: The British Library.
+
+3. Sofer Mahir — D. Stökl Ben Ezra and H. Lapin, Sofer Mahir database, Paris 2022 (github.com/dstoekl/sofer_mahir),
+   transcription of Munich, Bayerische Staatsbibliothek, Cod. hebr. 117. Licence of the transcriptions: CC BY-NC-SA 4.0
+   (permission for this use has been requested from the authors). Images: BSB / MDZ, Public Domain Mark.
+
+4. HHD — I. Rabaev, B. Kurar Barakat, A. Churkin, J. El-Sana, "The HHD Dataset", ICFHR 2020,
+   doi:10.1109/ICFHR2020.2020.00050 (HHD_age, Zenodo 14996257; HHD_gender, Zenodo 4729908), via the line-level copies
+   cyttic/trocr-hebrew-matan and cyttic/trocr-hebrew-human (permission for this use has been requested from the authors).
+
+5. DiffusionPen synthetic Hebrew handwriting (cyttic/diffusionpen-hebrew-handwriting, CC BY 4.0) — rehearsal lines.
+
+6. Language model: texts from Sefaria (sefaria.org; public-domain and CC-licensed texts as listed by Sefaria).
+
+7. Fonts of the interface (bundled in gui/fonts, used only for display): Assistant — Copyright 2010 The Assistant
+   Project Authors (github.com/hafontia/Assistant); Frank Ruhl Libre — Copyright 2015 The Frank Ruhl Libre Project
+   Authors (github.com/fontef/frankruhllibre). Both under the SIL Open Font License 1.1 (scripts.sil.org/OFL); the
+   licence texts are included next to the font files.
+
+תודה רבה לכל החוקרים והמוסדות שפרסמו את הנתונים האלה.
+Many thanks to all the researchers and institutions who published these data.
